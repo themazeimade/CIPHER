@@ -1,2 +1,2 @@
 # CIPHER
-Cipher exercise, just run the exacutable and see the magic.
+Cipher exercise, just run the executable and see the magic.
